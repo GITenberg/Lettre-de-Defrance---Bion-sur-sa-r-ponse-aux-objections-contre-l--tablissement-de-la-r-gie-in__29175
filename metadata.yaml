@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33740'
     url: http://www.gutenberg.org/2009/agents/33740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29175#Lettre-de-Defrance---Bion-sur-sa-r-ponse-aux-objections-contre-l--tablissement-de-la-r-gie-in_
 gutenberg_bookshelf: FR Services publics
 gutenberg_issued: '2009-06-20'
 gutenberg_type: Text
