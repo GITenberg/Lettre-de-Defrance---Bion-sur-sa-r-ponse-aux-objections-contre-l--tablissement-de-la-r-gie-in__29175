@@ -1,0 +1,31 @@
+_repo: Lettre-de-Defrance---Bion-sur-sa-r-ponse-aux-objections-contre-l--tablissement-de-la-r-gie-in__29175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defrance, Jean Claude
+    alias: Defrance, Jean-Claude
+    birthdate: 1743
+    deathdate: 1807
+    gutenberg_agent_id: '33740'
+    url: http://www.gutenberg.org/2009/agents/33740
+description: ''
+gutenberg_bookshelf: FR Services publics
+gutenberg_issued: '2009-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29175'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Postal service -- France -- Administration -- Early works to 1800'
+- !lcc 'HE'
+- !lcsh 'France. Ministère des P.T.T. -- History'
+title: Lettre de Defrance à Bion, sur sa réponse aux objections contre l'établissement
+  de la régie intéressée des postes et messageries
+url: http://www.gutenberg.org/ebooks/29175
